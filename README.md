@@ -1,2 +1,4 @@
-# exercicios-javascript
-Repositório destinado a fins educativos 
+# _**Exercicios de javascript**_
+
+- **Lista 1 - Vetores**
+- **Lista 2 - Strings**
