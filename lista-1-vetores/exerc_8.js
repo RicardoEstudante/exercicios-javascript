@@ -43,4 +43,8 @@ else {
     }
 }
 
-console.log(vetor2);
+try{
+    assert.deepEqual([8,0,1], vetor2);
+}catch (e) {
+    console.log(e);
+}
