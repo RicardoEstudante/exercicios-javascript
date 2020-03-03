@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="105b3a3a-c162-4ba1-b963-6a45a95733f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista-3-for/exerc_1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +54,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
-  <component name="RunManager" selected="Node.js.a.js">
+  <component name="RunManager" selected="Node.js.exerc_1.js">
     <configuration name="a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lista-2-strings/a.js" working-dir="$PROJECT_DIR$/lista-2-strings">
       <method v="2" />
     </configuration>
-    <configuration name="exerc_5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lista-2-strings/exerc_5.js" working-dir="$PROJECT_DIR$/lista-2-strings">
+    <configuration name="exerc_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lista-3-for/exerc_1.js" working-dir="$PROJECT_DIR$/lista-3-for">
       <method v="2" />
     </configuration>
     <configuration name="exerc_6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lista-2-strings/exerc_6.js" working-dir="$PROJECT_DIR$/lista-2-strings">
@@ -73,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.exerc_1.js" />
         <item itemvalue="Node.js.a.js" />
         <item itemvalue="Node.js.exerc_8.js" />
         <item itemvalue="Node.js.exerc_7.js" />
         <item itemvalue="Node.js.exerc_6.js" />
-        <item itemvalue="Node.js.exerc_5.js" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +93,7 @@
       <workItem from="1583122183839" duration="6245000" />
       <workItem from="1583160743734" duration="1409000" />
       <workItem from="1583165119630" duration="8915000" />
-      <workItem from="1583264486962" duration="243000" />
+      <workItem from="1583264486962" duration="2205000" />
     </task>
     <servers />
   </component>
@@ -109,26 +108,30 @@
       <screen x="0" y="0" width="1366" height="735" />
     </state>
     <state x="416" y="152" width="530" height="431" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1366.735@0.0.1366.735" timestamp="1583161039215" />
-    <state width="656" height="199" key="GridCell.Tab.0.bottom" timestamp="1583175639280">
-      <screen x="0" y="0" width="1366" height="735" />
+    <state width="656" height="186" key="GridCell.Tab.0.bottom" timestamp="1583266076931">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="659" height="200" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583157922946" />
     <state width="656" height="199" key="GridCell.Tab.0.bottom/0.0.1366.735@0.0.1366.735" timestamp="1583175639280" />
-    <state width="656" height="199" key="GridCell.Tab.0.center" timestamp="1583175639279">
-      <screen x="0" y="0" width="1366" height="735" />
+    <state width="656" height="186" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583266076931" />
+    <state width="656" height="186" key="GridCell.Tab.0.center" timestamp="1583266076930">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="659" height="200" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583157922946" />
     <state width="656" height="199" key="GridCell.Tab.0.center/0.0.1366.735@0.0.1366.735" timestamp="1583175639279" />
-    <state width="656" height="199" key="GridCell.Tab.0.left" timestamp="1583175639279">
-      <screen x="0" y="0" width="1366" height="735" />
+    <state width="656" height="186" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583266076930" />
+    <state width="656" height="186" key="GridCell.Tab.0.left" timestamp="1583266076930">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="659" height="200" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583157922946" />
     <state width="656" height="199" key="GridCell.Tab.0.left/0.0.1366.735@0.0.1366.735" timestamp="1583175639279" />
-    <state width="656" height="199" key="GridCell.Tab.0.right" timestamp="1583175639279">
-      <screen x="0" y="0" width="1366" height="735" />
+    <state width="656" height="186" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583266076930" />
+    <state width="656" height="186" key="GridCell.Tab.0.right" timestamp="1583266076930">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="659" height="200" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583157922946" />
     <state width="656" height="199" key="GridCell.Tab.0.right/0.0.1366.735@0.0.1366.735" timestamp="1583175639279" />
+    <state width="656" height="186" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583266076930" />
     <state width="656" height="199" key="GridCell.Tab.1.bottom" timestamp="1583175639281">
       <screen x="0" y="0" width="1366" height="735" />
     </state>
@@ -201,6 +204,10 @@
       <screen x="0" y="0" width="1366" height="735" />
     </state>
     <state x="403" y="180" width="556" height="374" key="jetbrains.nodejs.interpreters-dialog/0.0.1366.735@0.0.1366.735" timestamp="1583161093768" />
+    <state x="4" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583265721173">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="4" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583265721173" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
